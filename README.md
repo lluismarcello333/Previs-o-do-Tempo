@@ -1,3 +1,3 @@
 # Previsão-do-Tempo
 
-https://github.com/lluismarcello333/Previsao-do-Tempo/settings/pages
+https://lluismarcello333.github.io/Previsao-do-Tempo/
